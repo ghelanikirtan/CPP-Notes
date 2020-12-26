@@ -7,14 +7,14 @@ Mynote2.cpp --> Variable Types
 Mynote3.cpp --> Operators
 
 Mynote4.cpp --> Float, double & long double literals
-              > Refrence Variables
-              > TYPECASTING
+              | Refrence Variables
+              | TYPECASTING
 
 Mynote5.cpp --> Constants
-              > Manipulators
+              | Manipulators
 
 Mynote6.cpp --> IF/ELSE statement
-              > SWITCH-CASE statement
-              > LOOPS
+              | SWITCH-CASE statement
+              | LOOPS
 
 Mynote7.cpp --> .............comming soon 
